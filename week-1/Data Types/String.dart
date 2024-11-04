@@ -30,11 +30,15 @@ void main() {
 
   /** 
    * Properties and Methods
-  */
+  */ 
+
+  // Properties
   String word = 'Hello';
   print(word.length);
   print(word.isEmpty);
   print(word.isNotEmpty);
+
+  // Methods
   print(word.toLowerCase());
   print(word.toUpperCase());
   print(word.contains('ell'));
