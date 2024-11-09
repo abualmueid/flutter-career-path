@@ -1,1 +1,1 @@
-This branch will consist of all the practice files such as project files, assignment files, quiz files and other necessary files for the purpose of completion of Flutter Career Path Batch 02 by Interactive Cares.
+This branch will consist of all the practice files of week-3.
