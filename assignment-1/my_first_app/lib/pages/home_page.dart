@@ -10,6 +10,7 @@ class HomePage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           _myName(),
+          const SizedBox(height: 20),
           _myImage()
         ],
       )
@@ -17,13 +18,16 @@ class HomePage extends StatelessWidget {
   }
 
   Widget _myImage() {
-    return Container(
-      decoration: const BoxDecoration(
-          image: DecorationImage(
-              image: AssetImage('assets/images/my_image.png'),
-              fit: BoxFit.fitWidth
-          )
-      ),
+    return SizedBox(
+      height: 400,
+      child: Container(
+        decoration: const BoxDecoration(
+            image: DecorationImage(
+                image: AssetImage('assets/images/my_image.png'),
+                fit: BoxFit.fitWidth
+            ),
+        ),
+      )
     );
   }
 
