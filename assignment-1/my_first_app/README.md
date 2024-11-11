@@ -9,7 +9,7 @@ This is a simple flutter application which displays my name and my image togethe
 
 ## Screenshots
 ![App Screenshot](screenshots/my_image_ss.png) 
-<img src="screenshots/your-image-name.png" alt="Description of Image" width="300" />
+<img src="screenshots/my_image_ss.png" alt="Description of Image" width="300" />
 
 
 ## How to install 
