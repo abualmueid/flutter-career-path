@@ -8,7 +8,7 @@ This is a simple flutter application which displays my name and my image togethe
 2. **Image**: Displays my image at the center of the app.
 
 ## Screenshots
-![My Image](assets/images/my_image.png)
+![My Image](screenshots/my_image_ss.png)
 
 ## How to install 
 Installation of this app is very simple.
