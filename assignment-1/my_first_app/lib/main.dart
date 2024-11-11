@@ -13,7 +13,7 @@ class MyFirstApp extends StatelessWidget {
     return MaterialApp(
       home: const HomePage(),
       theme: ThemeData(
-          scaffoldBackgroundColor: Colors.amberAccent
+          scaffoldBackgroundColor: Color.fromRGBO(206, 229, 252, 1)
       ),
     );
   }
