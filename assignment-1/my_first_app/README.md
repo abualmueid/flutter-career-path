@@ -10,7 +10,6 @@ This is a simple flutter application which displays my name and my image togethe
 ## Screenshots
 <img src="screenshots/my_image_ss.png" alt="App Screenshot" width="300"/>
 
-
 ## How to install 
 Installation of this app is very simple.
 
